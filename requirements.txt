@@ -1,0 +1,4 @@
+python-dotenv
+py-trello
+pandas
+openpyxl
